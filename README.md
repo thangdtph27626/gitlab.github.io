@@ -93,7 +93,7 @@ chọn một dự án  cần thêm thành viên ->  chọn members -> Invite mem
 ![Uploading image.png…]()
 
 
-
+Bạn có thể tìm hiểu cách sử dụng gitlab thêm tại  https://docs.gitlab.com/ee/user/ 
 
 
 
