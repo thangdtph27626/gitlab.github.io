@@ -49,13 +49,12 @@
   
 ## Components
 
-![Uploading image.png…]()
+![image](https://github.com/thangdtph27626/gitlab.github.io/assets/109157942/a108ef10-d22c-4324-bf17-7d7149887919)
 
 ## Cách cài đặt Gitlab 
 
-Mở và đăng nhập gitlab.com
 
-Tạo dự án (mô tả riêng tư hoặc công khai):
+11 Tạo dự án (mô tả riêng tư hoặc công khai):
 
 chọn new project
 
@@ -84,6 +83,17 @@ bạn có thể tìm kiếm tên repository và bấm import để import projec
 chọn quay trở lại projects tại đây bạn sẽ thấy project bạn vừa import 
 
 ![image](https://github.com/thangdtph27626/gitlab.github.io/assets/109157942/bff75ea5-848b-443c-acde-76f11ed2802f)
+
+2: Thêm thành viên trong github 
+
+chọn một dự án  cần thêm thành viên ->  chọn members -> Invite members -> nhập gmail hoặc username của thành viên, chọn quền, và ngày hết hạn truy cập
+
+![image](https://github.com/thangdtph27626/gitlab.github.io/assets/109157942/6ee14f11-f71b-40b0-94f4-0f205a8812f9)
+![image](https://github.com/thangdtph27626/gitlab.github.io/assets/109157942/3b04f2ad-4b57-4820-8bde-88cd9b27e07f)
+![Uploading image.png…]()
+
+
+
 
 
 
